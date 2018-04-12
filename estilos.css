@@ -8,11 +8,12 @@
     font-family: 'open_sansbold';
     src: 	url('../Font/opensans-bold-webfont.woff2') format('woff2'),
          	url('../Font/opensans-bold-webfont.woff') format('woff'),
-			url('../Font/opensans-bold-webfont.ttf') format('ttf');
 			
-			
-		 	
     font-weight: normal;
     font-style: normal;
+}
 
+body{
+		font-family:  "open_sansbold", Helvetica,Verdana;
+	
 }
